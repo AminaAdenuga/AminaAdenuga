@@ -1,6 +1,6 @@
 - 👋 Hithere, I’m Amina Adenuga
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS and JS
+- 🌱 HTML,CSS and JS
 - 💞
 - 📫 
 
