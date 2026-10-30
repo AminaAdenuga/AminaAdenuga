@@ -1,8 +1,15 @@
-Hello there; welcome 👋🏾
+Hello there, and welcome! 👋🏾
 
-Here's a quick summary about me:
+Here's a little about me:
 
-😊 Pronouns: She/her
-💡 Fun fact: AI Engineer | AI Educator | Helping Businesses & Developers Leverage AI
-I teach developers & businesses how to build AI solutions, automate workflows, and master prompt engineering. Let’s connect!
-📫 You can contact me by emailing aminaaadenuga@gmail.com
+😊 Pronouns: She/Her
+
+💡 What I do: Chemist | AI Engineer | AI Educator
+
+I build technology-driven solutions for chemistry and scientific applications, exploring how AI and software engineering can solve real-world problems in research, education, and the chemical industry.
+
+I also share my learning journey and insights on AI, chemistry, and building practical solutions.
+
+Always happy to connect, collaborate, and exchange ideas. Let's connect!
+
+📫Email: aminaaadenuga@gmail.com
